@@ -1,0 +1,20 @@
+# virtual environment
+venv/
+.venv/
+env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# saved models (can be rebuilt by running the code)
+outputs/*.joblib
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,3 @@
+model,overall_recall,overall_f1,fpr_office_home_users,genuine_travellers_blocked_pct,genuine_travellers_blocked
+With location feature,0.932,0.9433,0.0092,0.1,30
+Location feature removed,0.88,0.9091,0.0142,0.0067,2
